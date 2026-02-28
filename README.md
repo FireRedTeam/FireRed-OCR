@@ -7,11 +7,14 @@
 <p align="center" style="line-height: 1;">
   <a href="https://huggingface.co/FireRedTeam" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FireRedTeam-ffc107?color=ffc107&logoColor=white" style="display: inline-block;"/></a>
   <a href="https://huggingface.co/FireRedTeam/FireRed-OCR" target="_blank"><img alt="Hugging Face Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FireRed--OCR-red" style="display: inline-block;"/></a>
-  <a href="https://huggingface.co/spaces/FireRedTeam/FireRed-OCR" target="_blank"><img alt="Demo" src="https://img.shields.io/badge/%F0%9F%92%BB%20Demo-FireRed--OCR-red" style="display: inline-block;"/></a>
+  <a href="https://huggingface.co/spaces/FireRedTeam/FireRed-OCR" target="_blank"><img alt="HF Demo" src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20Demo-FireRed--OCR-red" style="display: inline-block;"/></a>
+  <a href="https://www.modelscope.cn/models/FireRedTeam/FireRed-OCR" target="_blank"><img alt="ModelScope Model" src="https://img.shields.io/badge/%F0%9F%A4%96%20ModelScope-FireRed--OCR-624aff" style="display: inline-block;"/></a>
+  <a href="https://www.modelscope.cn/studios/FireRedTeam/FireRed-OCR" target="_blank"><img alt="MS Demo" src="https://img.shields.io/badge/%F0%9F%A4%96%20MS%20Demo-FireRed--OCR-624aff" style="display: inline-block;"/></a>
 </p>
 
 <p align="center" style="line-height: 1;">
   🤗 <a href="https://huggingface.co/FireRedTeam/FireRed-OCR">HuggingFace</a> |
+  🤖 <a href="https://www.modelscope.cn/models/FireRedTeam/FireRed-OCR">ModelScope</a> |
   🖥️ <a href="https://huggingface.co/spaces/FireRedTeam/FireRed-OCR"> Demo</a> |
   📄 <a href="https://github.com/FireRedTeam/FireRed-OCR/blob/main/assets/FireRed_OCR_Technical_Report.pdf">Technical Report</a> | 
   🐈 <a href="https://github.com/FireRedTeam/FireRed-OCR">GitHub</a>
