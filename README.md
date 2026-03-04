@@ -331,7 +331,7 @@ We kindly encourage citation of our work if you find it useful.
 ```bibtex
 @article{fireredocr,
   title={FireRed-OCR Technical Report},
-  author={Super Intelligence Team， Xiaohongshu Inc.},
+  author={Super Intelligence Team, Xiaohongshu Inc.},
   year={2026},
   eprint={2603.01840},
   archivePrefix={arXiv},
